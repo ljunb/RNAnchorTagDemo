@@ -2971,6 +2971,10 @@ react-devtools-core@^2.0.8:
     shell-quote "^1.6.1"
     ws "^2.0.3"
 
+react-native-anchor-tag@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.npmjs.org/react-native-anchor-tag/-/react-native-anchor-tag-0.0.1.tgz#bdcaa79ef13d6ca0e822e485e9ea20170c03783c"
+
 react-native@0.44.3:
   version "0.44.3"
   resolved "http://registry.npm.taobao.org/react-native/download/react-native-0.44.3.tgz#04550e1cdfc619a712f3f5969d68cd7c2dc4c073"
