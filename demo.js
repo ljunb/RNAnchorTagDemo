@@ -16,9 +16,9 @@ import AnchorView from "react-native-anchor-tag";
 export default class RNAnchorTagDemo extends Component {
     tagList = [
         {name: '远处云层', x: 50, y: 100},
-        {name: '明亮的太阳', x: 300, y: 220},
+        {name: '明亮', x: 300, y: 220},
         {name: '书页', x: 140, y: 245},
-        {name: '小清新的地板', x: 280, y: 320}
+        {name: '小清新', x: 280, y: 320}
     ];
 
     renderAnchorItem = (tag, key) => {
